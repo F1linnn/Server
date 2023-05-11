@@ -1,0 +1,44 @@
+2023-05-03 23:14:43,650 - my_logger - INFO - Method:GET /myfiles/1.png HTTP/1.1, 200 OK, path:./myfiles/1.png
+2023-05-03 23:14:43,650 - my_logger - INFO - Method:GET /myfiles/1.png HTTP/1.1, 200 OK, path:./myfiles/1.png
+2023-05-03 23:14:43,650 - my_logger - INFO - Method:GET /myfiles/1.png HTTP/1.1, 200 OK, path:./myfiles/1.png
+2023-05-03 23:14:45,199 - my_logger - ERROR - 404 Not Foundpath:./favicon.ico
+2023-05-03 23:14:45,199 - my_logger - ERROR - 404 Not Foundpath:./favicon.ico
+2023-05-03 23:14:45,199 - my_logger - ERROR - 404 Not Foundpath:./favicon.ico
+2023-05-03 23:14:45,199 - my_logger - ERROR - 404 Not Foundpath:./favicon.ico
+2023-05-03 23:14:45,199 - my_logger - INFO - Method:GET /favicon.ico HTTP/1.1, 200 OK, path:./favicon.ico
+2023-05-03 23:14:45,199 - my_logger - INFO - Method:GET /favicon.ico HTTP/1.1, 200 OK, path:./favicon.ico
+2023-05-03 23:14:45,199 - my_logger - INFO - Method:GET /favicon.ico HTTP/1.1, 200 OK, path:./favicon.ico
+2023-05-03 23:14:45,199 - my_logger - INFO - Method:GET /favicon.ico HTTP/1.1, 200 OK, path:./favicon.ico
+2023-05-03 23:15:21,564 - my_logger - INFO - Method:GET /myfiles/1.png HTTP/1.1, 200 OK, path:./myfiles/1.png
+2023-05-03 23:15:22,221 - my_logger - ERROR - 404 Not Foundpath:./favicon.ico
+2023-05-03 23:15:22,221 - my_logger - ERROR - 404 Not Foundpath:./favicon.ico
+2023-05-03 23:15:22,221 - my_logger - INFO - Method:GET /favicon.ico HTTP/1.1, 200 OK, path:./favicon.ico
+2023-05-03 23:15:22,221 - my_logger - INFO - Method:GET /favicon.ico HTTP/1.1, 200 OK, path:./favicon.ico
+2023-05-03 23:15:32,052 - my_logger - INFO - Method:GET /myfiles/1.png HTTP/1.1, 200 OK, path:./myfiles/1.png
+2023-05-03 23:15:33,054 - my_logger - ERROR - 404 Not Foundpath:./favicon.ico
+2023-05-03 23:15:33,054 - my_logger - ERROR - 404 Not Foundpath:./favicon.ico
+2023-05-03 23:15:33,054 - my_logger - INFO - Method:GET /favicon.ico HTTP/1.1, 200 OK, path:./favicon.ico
+2023-05-03 23:15:33,054 - my_logger - INFO - Method:GET /favicon.ico HTTP/1.1, 200 OK, path:./favicon.ico
+2023-05-03 23:16:07,240 - my_logger - INFO - Method:GET /myfiles/1.png HTTP/1.1, 200 OK, path:./myfiles/1.png
+2023-05-03 23:41:17,671 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:42:51,826 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:42:51,826 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:42:51,826 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:42:51,826 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:43:50,074 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:43:50,074 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:43:50,074 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:43:50,074 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:43:50,074 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:43:50,074 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:43:50,074 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:44:34,428 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:44:34,428 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:44:34,428 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:44:34,428 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:44:34,428 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:44:34,428 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:44:34,428 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:44:34,428 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:44:34,428 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
+2023-05-03 23:44:34,428 - my_logger - INFO - Method:GET /myfiles/weather.php HTTP/1.1, 200 OK, path:./myfiles/weather.php
